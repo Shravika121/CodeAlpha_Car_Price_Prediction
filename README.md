@@ -1,5 +1,7 @@
 **🚗 Car Price Prediction with Machine Learning**
+
 🔍 Overview
+
 This project is part of my CodeAlpha Data Science Internship and focuses on predicting car prices based on various features using supervised machine learning techniques. The aim is to build a regression model that can accurately estimate the price of a car based on attributes like engine size, horsepower, mileage, and brand.
 
 📁 Dataset
