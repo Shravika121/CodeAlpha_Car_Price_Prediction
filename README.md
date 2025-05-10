@@ -83,7 +83,7 @@ Feature importance (optional)
 🧪 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/CodeAlpha_Car_Price_Prediction.git
+git clone https://github.com/Shravika121/CodeAlpha_Car_Price_Prediction.git
 cd CodeAlpha_Car_Price_Prediction
 Open the notebook:
 
